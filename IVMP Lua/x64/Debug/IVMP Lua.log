@@ -1,0 +1,35 @@
+﻿  stdafx.cpp
+  easylogging++.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\Server\SharedDefines\easylogging++.cpp': No such file or directory
+  apiLua.cpp
+e:\t4 client\ivmp lua\ivmp lua\apilua.cpp(311): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  apiLuaParams.cpp
+  apiMysql.cpp
+e:\t4 client\ivmp lua\ivmp lua\apimysql.cpp(14): error C2653: 'apiMysql': is not a class or namespace name
+e:\t4 client\ivmp lua\ivmp lua\apimysql.cpp(24): error C2653: 'apiMysql': is not a class or namespace name
+e:\t4 client\ivmp lua\ivmp lua\apimysql.cpp(34): error C2653: 'apiMysql': is not a class or namespace name
+e:\t4 client\ivmp lua\ivmp lua\apimysql.cpp(43): error C2653: 'apiMysql': is not a class or namespace name
+e:\t4 client\ivmp lua\ivmp lua\apimysql.cpp(56): error C2653: 'apiMysql': is not a class or namespace name
+e:\t4 client\ivmp lua\ivmp lua\apimysql.cpp(65): error C2653: 'apiMysql': is not a class or namespace name
+e:\t4 client\ivmp lua\ivmp lua\apimysql.cpp(74): error C2653: 'apiMysql': is not a class or namespace name
+e:\t4 client\ivmp lua\ivmp lua\apimysql.cpp(83): error C2653: 'apiMysql': is not a class or namespace name
+e:\t4 client\ivmp lua\ivmp lua\apimysql.cpp(92): error C2653: 'apiMysql': is not a class or namespace name
+e:\t4 client\ivmp lua\ivmp lua\apimysql.cpp(101): fatal error C1020: unexpected #endif
+  blipFunctions.cpp
+  cpFunctions.cpp
+  dialogFunctions.cpp
+  handler.cpp
+e:\t4 client\ivmp lua\ivmp lua\handler.cpp(149): fatal error C1020: unexpected #endif
+  IVMP Lua.cpp
+e:\t4 client\ivmp lua\ivmp lua\ivmp lua.cpp(13): warning C4005: 'mySleep2': macro redefinition
+  e:\t4 client\ivmp lua\ivmp lua\ivmp lua.cpp(10): note: see previous definition of 'mySleep2'
+e:\t4 client\ivmp lua\ivmp lua\ivmp lua.cpp(167): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  npcFunctions.cpp
+  objectFunctions.cpp
+  playerEvents.cpp
+  playerFunctions.cpp
+  sha2.cpp
+  sresult.cpp
+  vehicleFunctionscpp.cpp
+  worldFunctions.cpp
+  Generating Code...

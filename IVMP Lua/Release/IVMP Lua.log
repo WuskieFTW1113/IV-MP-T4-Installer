@@ -1,0 +1,25 @@
+﻿  stdafx.cpp
+  easylogging++.cpp
+  apiLua.cpp
+  apiLuaParams.cpp
+  apiMysql.cpp
+  blipFunctions.cpp
+  cpFunctions.cpp
+  dialogFunctions.cpp
+  handler.cpp
+  IVMP Lua.cpp
+  npcFunctions.cpp
+  objectFunctions.cpp
+  playerEvents.cpp
+  playerFunctions.cpp
+  sha2.cpp
+  sresult.cpp
+  vehicleFunctionscpp.cpp
+  worldFunctions.cpp
+     Creating library E:\T4 client\IVMP Lua\Release\IVMP Lua.lib and object E:\T4 client\IVMP Lua\Release\IVMP Lua.exp
+  Generating code
+  1793 of 1799 functions (99.7%) were compiled, the rest were copied from previous compilation.
+    14 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  IVMP Lua.vcxproj -> E:\T4 client\IVMP Lua\Release\IVMP Lua.exe
