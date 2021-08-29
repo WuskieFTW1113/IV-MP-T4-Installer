@@ -179,6 +179,10 @@ namespace Installer
 						rockstar = registry.CreateSubKey(path);
 						eflc = registry.CreateSubKey(path + "\\EFLC");
 						eflc.SetValue("InstallFolder", gtaFolder);
+						eflc.SetValue("Design Installer", "1");
+						eflc.SetValue("INSTALL_LANG", "1033");
+						eflc.SetValue("InstallComplete", "1");
+
 					}
 					catch (Exception){}
 				}
@@ -284,13 +288,13 @@ namespace Installer
 
 			string[,] mirrors = new string[3, 2] {
 				{"https://bitbucket.org/Suge/eflc-mp-lua/downloads/IVMP_EFLC.zip",
-					"http://iv-mp.eu/IVMP_EFLC.zip" },
+					"https://bitbucket.org/Suge/eflc-mp-lua/downloads/IVMP_EFLC.zip" },
 				
 				{"https://bitbucket.org/Suge/eflc-mp-lua/downloads/IVMP_GTA4.zip",
-					"http://iv-mp.eu/IVMP_GTA4.zip"},
+					"https://bitbucket.org/Suge/eflc-mp-lua/downloads/IVMP_GTA4.zip"},
                 {
-					"COMPLETE EDITION LINK 1",
-					"COMPLETE EDITION LINK 2"
+					"https://bitbucket.org/BlueCat1/iv-mp-ce-download-link/downloads/IVMP_CE.zip",
+					"https://bitbucket.org/BlueCat1/iv-mp-ce-download-link/downloads/IVMP_CE.zip"
 				}
 			};
 
