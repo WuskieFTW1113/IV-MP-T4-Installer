@@ -110,15 +110,15 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(393, 13);
             this.label3.TabIndex = 3;
-            this.label3.Text = "Select the GTA version you own, We recommend EFLC for it`s additional contents";
+            this.label3.Text = "Select the GTA version you own, We recommend The Complete Editon";
             // 
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
             this.listBox1.Items.AddRange(new object[] {
-            "GTA Episodes From Liberty City",
-            "GTA 4",
-            "GTA IV: The Complete Edition"});
+            "GTA: EFLC (1.1.2.0 + 1.1.3.0)",
+            "GTA: IV (1.0.7.0 + 1.0.8.0)",
+            "GTA: IV: The Complete Edition (1.2.0.32 + 1.2.0.43)"});
             this.listBox1.Location = new System.Drawing.Point(3, 39);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(437, 43);
